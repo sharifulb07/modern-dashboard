@@ -20,7 +20,7 @@ export default function Sidebar() {
         <div className={styles.sidebarContent}>
           <div className={styles.profileDetails}>
             <div className={styles.profileImageDiv}>
-              <img style={{width:70, height:70, backgroundColor:'lightgrey', borderRadius:'50%'}} src={samanthaImg} alt="samantha" />
+              <img style={{width:80, height:80, backgroundColor:'lightgrey', borderRadius:'50%'}} src={samanthaImg} alt="samantha" />
               <p className={styles.notifications}>4</p>
             </div>
             <p className={styles.userName}>Ema WatSon</p>

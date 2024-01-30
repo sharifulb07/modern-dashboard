@@ -1,10 +1,10 @@
 import React from 'react'
 import styles from './rightbar.module.css'
 
-const rightbar = () => {
+const Rightbar = () => {
   return (
     <div>rightbar</div>
   )
 }
 
-export default rightbar
+export default Rightbar
